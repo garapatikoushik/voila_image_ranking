@@ -5,7 +5,8 @@ alabaster
 altair==4.2.0
 anaconda-client 
 
-anaconda-project 
+
+ 
 anvil-uplink==0.4.0
 anyio 
 appdirs==1.4.4
