@@ -272,7 +272,8 @@ PyWavelets
 
 
 pywin32-ctypes 
-pywinpty 
+
+ 
 PyYAML==6.0
 pyzmq 
 QDarkStyle 
