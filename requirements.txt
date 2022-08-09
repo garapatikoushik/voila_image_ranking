@@ -180,7 +180,8 @@ munkres==1.1.4
 mypy-extensions==0.4.3
 mysql-connector-python==8.0.29
 natsort==8.1.0
-navigator-updater==0.2.1
+
+
 nbclassic 
 nbclient 
 nbconvert==6.5.0
