@@ -4,7 +4,7 @@ aiosignal
 alabaster 
 altair==4.2.0
 anaconda-client 
-anaconda-navigator
+
 anaconda-project 
 anvil-uplink==0.4.0
 anyio 
