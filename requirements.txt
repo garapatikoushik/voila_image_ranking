@@ -60,8 +60,9 @@ conda-content-trust==0.1.2
 conda-pack 
 
  
-conda-token 
-conda-verify==3.4.2
+ 
+
+
 constantly==15.1.0
 cookiecutter 
 cryptography 
