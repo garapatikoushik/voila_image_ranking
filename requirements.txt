@@ -71,7 +71,7 @@ cufflinks==0.17.3
 cycler 
 Cython 
 cytoolz==0.11.0
-daal4py==2021.5.1
+daal4py==2021.6.3
 dask 
 datashader 
 datashape==0.5.2
