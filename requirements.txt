@@ -265,6 +265,7 @@ pyviz-comms
 PyWavelets 
 
 pywin32-ctypes 
+turtle==0.0.1
 pywinpty
 PyYAML==6.0
 pyzmq 
