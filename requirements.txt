@@ -59,7 +59,7 @@ conda-pack
 
 
 
-conda-verify==3.4.2
+
 constantly==15.1.0
 cookiecutter 
 cryptography 
