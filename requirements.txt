@@ -265,7 +265,7 @@ pyviz-comms
 PyWavelets 
 
 pywin32-ctypes 
-pyproject.toml
+
 PyYAML==6.0
 pyzmq 
 QDarkStyle 
