@@ -374,7 +374,7 @@ ws4py==0.5.1
 xarray
 xlrd 
 XlsxWriter 
-xlwings==0.24.9
+
 yapf 
 yarl 
 zict==2.0.0
