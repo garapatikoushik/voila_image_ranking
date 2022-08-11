@@ -282,7 +282,7 @@ rich==12.5.1
 rope 
 rsa 
 Rtree 
-ruamel-yaml-conda
+
 s3transfer 
 scikit-image 
 scikit-learn 
